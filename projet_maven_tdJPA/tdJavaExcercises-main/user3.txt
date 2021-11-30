@@ -1,0 +1,7 @@
+Name = Pascal, FirstName = Blaise, Date de naissance = Mon Jun 19 00:00:00 CET 1623
+Name = Victor, FirstName = hugo, Date de naissance = Fri Feb 26 00:00:00 CET 1802
+Name = Zola, FirstName = Emile, Date de naissance = Thu Apr 02 00:00:00 CET 1840
+Name = Proust, FirstName = Marcel, Date de naissance = Mon Jul 10 00:00:00 CET 1871
+Name = Flaubert, FirstName = Gustave, Date de naissance = Sat May 08 00:00:00 CET 1880
+Name = Lovecrfat, FirstName = Howard Phillips, Date de naissance = Wed Aug 20 00:00:00 CET 1890
+Name = Asimov, FirstName = Isaac, Date de naissance = Fri Jan 02 00:00:00 CET 1920
